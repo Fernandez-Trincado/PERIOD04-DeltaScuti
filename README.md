@@ -17,7 +17,7 @@ Description:
 Program:
 ============
 
-Starting Period04 from the command line: https://www.univie.ac.at/tops/Period04/changelog-120.html
+Starting Period04 from the command line. An example of the batch file format: https://www.univie.ac.at/tops/Period04/changelog-120.html
 
 An integrated version of Period04 and Python is described in this repository.
 
