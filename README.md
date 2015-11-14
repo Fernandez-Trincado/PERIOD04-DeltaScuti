@@ -1,5 +1,5 @@
-Delta Scuti stars
-=================
+A survey of thousands of Delta Scuti star around Omega Centauri fields
+======================================================================
 
 Author: J. G. Fernandez-Trincado
 
