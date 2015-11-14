@@ -1,5 +1,5 @@
-A census of more than thousands of Delta Scuti stars in the field toward Omega Centauri
-=======================================================================================
+A census of more than thousands of variable stars and QSO's towards Omega Centauri fields
+========================================================================================
 
 Author: J. G. Fernandez-Trincado
 
