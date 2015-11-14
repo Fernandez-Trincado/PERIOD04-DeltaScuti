@@ -3,15 +3,14 @@ A census of more than thousands of Delta Scuti stars in the field toward Omega C
 
 Author: J. G. Fernandez-Trincado
 
-Status: Article submitted to ApJ. 
+Database:
+========
+
+A photometric 
+
 
 Description:
 ============
-
-
-
-
-
 
 
 Program:
