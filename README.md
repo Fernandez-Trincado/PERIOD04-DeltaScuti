@@ -1,4 +1,4 @@
-The Equatorial Wide-Field Optical Variability Survey
+The Equatorial Wide-Field Optical Survey for QSOs Variables and Short Period Variable Stars
 ====================================================
 PI: J. G. Fernandez-Trincado
 
