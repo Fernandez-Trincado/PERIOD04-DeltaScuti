@@ -1,7 +1,7 @@
-A census of more than thousands of variable stars and QSO's towards Omega Centauri fields
-========================================================================================
+VEST: Variability Equatorial Survey Team
+========================================
 
-Author: J. G. Fernandez-Trincado
+PI: J. G. Fernandez-Trincado
 
 Database:
 ========
