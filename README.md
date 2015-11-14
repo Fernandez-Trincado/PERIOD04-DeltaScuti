@@ -9,7 +9,7 @@ Please contact: J. G. Fernandez-Trincado (jfernandez@obs-besancon.fr)
 Database:
 ========
 
-For access to the online survey of variable stars and QSO's, click here. You may also access the archives of our more recently publications:
+For access to the online survey of variable stars and QSO's, click here: http://fernandez-trincado.github.io/Fernandez-Trincado/vest.html. You may also access the archives of our more recently publications:
 
 [4] Fernandez-Trincado et al. (2016, submitted).
 
