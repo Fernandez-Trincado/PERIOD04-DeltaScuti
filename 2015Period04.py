@@ -2,7 +2,7 @@
 
 # Program created to search for delta scuti stars in Fernandez-Trincado et al. (2015a) data: http://cdsads.u-strasbg.fr/abs/2015A%26A...574A..15F  
 # Author: J. G. Fernandez-Trincado
-# Status: Article in preparation, ApJ, 2016. 
+# Status: Article, ApJ, 2016. 
 # Last update: 2015 November 13
 # This program is a modified version of the original, supported by: https://github.com/keatonb/pyperiod04/blob/master/pyperiod04.py
 # J. G. Fernandez-Trincado also thanks Patrick Lenz by the support of "period04-v1.2.0-co140-linux-64bit.csh" (Update: November 2015)
