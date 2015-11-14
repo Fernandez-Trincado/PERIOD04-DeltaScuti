@@ -1,4 +1,4 @@
-A census of more than thousands of Delta Scuti stars in the field toward omega Centauri
+A census of more than thousands of Delta Scuti stars in the field toward Omega Centauri
 =======================================================================================
 
 Author: J. G. Fernandez-Trincado
