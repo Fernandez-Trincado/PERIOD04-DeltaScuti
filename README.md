@@ -1,7 +1,9 @@
 VEST: Variability Equatorial Survey Team
 ========================================
-
 PI: J. G. Fernandez-Trincado
+
+Questions or suggestions
+Please contact: J. G. Fernandez-Trincado (jfernandez@obs-besancon.fr) 
 
 Database:
 ========
