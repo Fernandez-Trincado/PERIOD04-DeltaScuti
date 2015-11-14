@@ -1,5 +1,5 @@
-VEST: Variability Equatorial Survey Team
-========================================
+The Equatorial Wide-Field Optical Variability Survey
+====================================================
 PI: J. G. Fernandez-Trincado
 
 Questions or suggestions?
